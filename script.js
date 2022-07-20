@@ -4,15 +4,14 @@ const elts = {
 };
 
 const texts = [
-    "If",
-    "You",
-    "Like",
-    "It",
-    "Please",
-    "Give",
-    "a Love",
+    "Ola",
+    "Oluwa",
+    "Subomi",
+    "Aduloju",
+    "Portfolio",
+    "Coming ",
+    "Soon",
     ":)",
-    "by @DotOnion"
 ];
 
 const morphTime = 1;

@@ -7,7 +7,6 @@ const texts = [
     "Ola",
     "Oluwa",
     "Subomi",
-    "Aduloju",
     "Portfolio",
     "Coming ",
     "Soon",
